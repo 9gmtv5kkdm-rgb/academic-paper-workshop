@@ -1,4 +1,4 @@
-# 学术论文工坊 / Academic Paper Workshop
+﻿# 学术论文工坊 / Academic Paper Workshop
 
 > 论文写作全流程技能套件 —— 审查 / 配图 / 排版 / 版本管理 / 参考文献，五合一
 
@@ -53,6 +53,10 @@ academic-paper-workshop/
 ```
 
 > 五个子技能各有独立文件夹，内含详细的 reference 文档。
+
+## 作者
+
+刘楠
 
 ## 许可
 
